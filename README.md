@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **Batool Fatima Soomro** 🌟
+# 👋 Hello, I'm **Batool Fatima Soomro** 🌟
 
-### 🎓 Computer Science Student | 🧠 Problem Solver | 💻 Tech Learner
+### 🎓 Computer Science Student | 🧠 Problem Solver | 💻 Tech Learner | Data Analyst 
 
 I am a passionate and growth-oriented **Computer Science student** who believes in building strong fundamentals and solving problems with clear logic. I focus on understanding how systems work internally and transforming ideas into **clean, reliable, and practical solutions**.
 
